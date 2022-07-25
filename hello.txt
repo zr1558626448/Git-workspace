@@ -12,3 +12,4 @@ Hello World!
 Hello World!
 Hello World! master test
 Hello World! hot-fix test
+你好！我要学习Git！
